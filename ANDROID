@@ -1,0 +1,4 @@
+
+r CMS lock-in
+
+Valhalla provides content using an industry standard GraphQL API and makes it easy to connect to multiple CMS APIs. Plug in different Framework or CMS tools based on the needs of the project and swap out pieces over time.
